@@ -14,13 +14,13 @@ arvore.insert(18, "Vanda");
 console.log(`\n In Order: `);
 arvore.inOrder();
 
-console.log(`\n Pre Order: `)
+console.log(`\n Pre Order: `);
 arvore.preOrder();
 
-console.log(`\n Post Order: `)
+console.log(`\n Post Order: `);
 arvore.postOrder();
 
-console.log(`\n Dec Order: `)
+console.log(`\n Dec Order: `);
 arvore.deOrder();
 
 console.log(`\n Largura: `);
